@@ -38,7 +38,7 @@ echo "<script>alert('Invalid Details');</script>";
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>VIT Library Management System , Chennai</title>
+    <title>Library Management System</title>
     <!-- BOOTSTRAP CORE STYLE  -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FONT AWESOME STYLE  -->
@@ -57,7 +57,7 @@ echo "<script>alert('Invalid Details');</script>";
 <div class="container">
 <div class="row pad-botm">
 <div class="col-md-12">
-<h4 class="header-line"> VIT LIBRARIAN/ADMIN LOGIN FORM</h4>
+<h4 class="header-line">  LIBRARIAN/ADMIN LOGIN FORM</h4>
 </div>
 </div>
              
